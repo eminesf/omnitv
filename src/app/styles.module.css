@@ -1,0 +1,5 @@
+.container {
+  @apply justify-center items-center w-auto h-screen bg-cover;
+
+  background-image: url("./../../public/background-tv.svg");
+}
